@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Aluno\Desktop\Prova23-05\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+183294401.index
+871419216.index
